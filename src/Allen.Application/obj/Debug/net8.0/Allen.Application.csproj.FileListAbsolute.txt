@@ -1,0 +1,40 @@
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.csproj.AssemblyReference.cache
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.AssemblyInfoInputs.cache
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.AssemblyInfo.cs
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.csproj.CoreCompileInputs.cache
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.deps.json
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.dll
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.pdb
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Domain.dll
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Infrastructure.dll
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Common.pdb
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Domain.pdb
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Infrastructure.pdb
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Ap.149ACB6D.Up2Date
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.dll
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\refint\Allen.Application.dll
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.pdb
+E:\Project H\Allen\src\Allen.Application\obj\Debug\net8.0\ref\Allen.Application.dll
+E:\Project H\Allen\src\Allen.Application\bin\Debug\net8.0\appsettings.json
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\appsettings.json
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.deps.json
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.dll
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Application.pdb
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Infrastructure.dll
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Common.pdb
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Domain.pdb
+E:\DotNet\Allen\src\Allen.Application\bin\Debug\net8.0\Allen.Infrastructure.pdb
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.csproj.AssemblyReference.cache
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.AssemblyInfoInputs.cache
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.AssemblyInfo.cs
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.csproj.CoreCompileInputs.cache
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Ap.149ACB6D.Up2Date
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.dll
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\refint\Allen.Application.dll
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\Allen.Application.pdb
+E:\DotNet\Allen\src\Allen.Application\obj\Debug\net8.0\ref\Allen.Application.dll

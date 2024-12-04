@@ -1,0 +1,6 @@
+@Allen.API_HostAddress = http://localhost:5053
+
+GET {{Allen.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

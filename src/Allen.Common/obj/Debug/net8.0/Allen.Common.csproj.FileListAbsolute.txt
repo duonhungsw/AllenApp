@@ -1,0 +1,24 @@
+E:\Project H\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.deps.json
+E:\Project H\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.pdb
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.csproj.AssemblyReference.cache
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.AssemblyInfoInputs.cache
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.AssemblyInfo.cs
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.csproj.CoreCompileInputs.cache
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\refint\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.pdb
+E:\Project H\Allen\src\Allen.Common\obj\Debug\net8.0\ref\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.deps.json
+E:\DotNet\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Common\bin\Debug\net8.0\Allen.Common.pdb
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.csproj.AssemblyReference.cache
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.AssemblyInfoInputs.cache
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.AssemblyInfo.cs
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.csproj.CoreCompileInputs.cache
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\refint\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\Allen.Common.pdb
+E:\DotNet\Allen\src\Allen.Common\obj\Debug\net8.0\ref\Allen.Common.dll

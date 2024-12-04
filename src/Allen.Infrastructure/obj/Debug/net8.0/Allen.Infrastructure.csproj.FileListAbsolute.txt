@@ -1,0 +1,38 @@
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.csproj.AssemblyReference.cache
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.AssemblyInfoInputs.cache
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.AssemblyInfo.cs
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.deps.json
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.runtimeconfig.json
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.dll
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.pdb
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Domain.dll
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Common.pdb
+E:\Project H\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Domain.pdb
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.In.A3A597CD.Up2Date
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.dll
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\refint\Allen.Infrastructure.dll
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.pdb
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.genruntimeconfig.cache
+E:\Project H\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\ref\Allen.Infrastructure.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.deps.json
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.runtimeconfig.json
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Infrastructure.pdb
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Common.pdb
+E:\DotNet\Allen\src\Allen.Infrastructure\bin\Debug\net8.0\Allen.Domain.pdb
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.csproj.AssemblyReference.cache
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.AssemblyInfoInputs.cache
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.AssemblyInfo.cs
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.In.A3A597CD.Up2Date
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\refint\Allen.Infrastructure.dll
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.pdb
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\Allen.Infrastructure.genruntimeconfig.cache
+E:\DotNet\Allen\src\Allen.Infrastructure\obj\Debug\net8.0\ref\Allen.Infrastructure.dll

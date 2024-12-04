@@ -1,0 +1,30 @@
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.AssemblyInfoInputs.cache
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.AssemblyInfo.cs
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.csproj.CoreCompileInputs.cache
+E:\Project H\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.deps.json
+E:\Project H\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.dll
+E:\Project H\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.pdb
+E:\Project H\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Common.dll
+E:\Project H\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Common.pdb
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.csproj.AssemblyReference.cache
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Do.51A07EE6.Up2Date
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.dll
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\refint\Allen.Domain.dll
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.pdb
+E:\Project H\Allen\src\Allen.Domain\obj\Debug\net8.0\ref\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.deps.json
+E:\DotNet\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Domain.pdb
+E:\DotNet\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Common.dll
+E:\DotNet\Allen\src\Allen.Domain\bin\Debug\net8.0\Allen.Common.pdb
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.csproj.AssemblyReference.cache
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.AssemblyInfoInputs.cache
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.AssemblyInfo.cs
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.csproj.CoreCompileInputs.cache
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Do.51A07EE6.Up2Date
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\refint\Allen.Domain.dll
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\Allen.Domain.pdb
+E:\DotNet\Allen\src\Allen.Domain\obj\Debug\net8.0\ref\Allen.Domain.dll
